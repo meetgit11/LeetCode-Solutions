@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -36,17 +37,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
 | [1934-confirmation-rate](https://github.com/meetgit11/LeetCode-Solutions/tree/master/1934-confirmation-rate) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
