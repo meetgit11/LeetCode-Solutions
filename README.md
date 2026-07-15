@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [1934-confirmation-rate](https://github.com/meetgit11/LeetCode-Solutions/tree/master/1934-confirmation-rate) |
 ## Math
 |  |
