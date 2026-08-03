@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/meetgit11/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## String
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
