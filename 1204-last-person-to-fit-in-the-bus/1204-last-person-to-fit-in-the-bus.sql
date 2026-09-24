@@ -3,7 +3,7 @@ SELECT person_name
 FROM (
     SELECT person_name, weight, turn, SUM(weight) OVER (ORDER BY turn) AS tsum
     FROM Queue
-)sub
+)sub #sub=temp_table_name, tsum=columnname for storing cumulative value of weight
 WHERE tsum<=1000
 ORDER BY turn DESC 
 LIMIT 1;
