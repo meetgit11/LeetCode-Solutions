@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/meetgit11/LeetCode-Solutions/tree/master/1251-average-selling-price) |
 | [1321-restaurant-growth](https://github.com/meetgit11/LeetCode-Solutions/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/meetgit11/LeetCode-Solutions/tree/master/1341-movie-rating) |
+| [1527-patients-with-a-condition](https://github.com/meetgit11/LeetCode-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/meetgit11/LeetCode-Solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/meetgit11/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/meetgit11/LeetCode-Solutions/tree/master/1729-find-followers-count) |
