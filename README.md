@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Database
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -195,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/meetgit11/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
