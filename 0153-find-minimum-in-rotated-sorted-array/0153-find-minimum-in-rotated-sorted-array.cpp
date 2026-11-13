@@ -1,23 +1,27 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        int low=0, high=nums.size()-1;
-        int ans=INT_MAX;
-        while(low<=high){
-            int mid=(low+high)/2;
-            if(nums[low]<=nums[high]){      //if low is equal to high then
-                ans=min(ans, nums[low]);
-                break;
-            }
-            if(nums[low]<=nums[mid]){              //if left half is sorted, low is the minimum element
-                ans=min(ans, nums[low]);
-                low=mid+1;
-            }
-            else{          //if right half is sorted, then mid will be automatically will be the minimum
-                ans=min(ans, nums[mid]);
-                high=mid-1;
+        int left = 0, right = nums.size() - 1;
+
+        // If the array is already sorted (not rotated)
+        if (nums[left] <= nums[right]) {
+            return nums[left];
+        }
+
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+
+            // If mid element is greater than the rightmost element, 
+            // the minimum must be in the right half.
+            if (nums[mid] > nums[right]) {
+                left = mid + 1;
+            } 
+            // Otherwise, the minimum is in the left half including mid.
+            else {
+                right = mid;
             }
         }
-        return ans;
+
+        return nums[left];
     }
 };
