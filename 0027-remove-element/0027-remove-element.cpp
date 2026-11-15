@@ -1,13 +1,15 @@
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        int i = 0;
-        for(int j=0; j<nums.size(); j++){
-            if(val!=nums[j]){
-                nums[i]=nums[j];
-                i++;
+        int k = 0; // Pointer for the position of valid elements
+
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] != val) {
+                nums[k] = nums[i];
+                k++;
             }
         }
-        return i;
+
+        return k;
     }
 };
